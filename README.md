@@ -8,7 +8,12 @@ An ultra-portable, wireless 6-button chorded keypad and touch-navigation control
 ## How It Works
 The device features a compact 3x2 grid of mechanical keys. It uses a custom chorded firmware layout so that users can tap specific combinations of buttons simultaneously to output all 26 letters of the English alphabet, system commands, and spacebar actions without a bulky physical layout.
 
-## Integrated Features
-- **Bluetooth Connection:** Wireless pairing for iOS and Android devices.
-- **Voice-to-Text Macro:** An all-key chord combination that triggers native phone dictation tools instantly.
-- **Mouse Touch Navigation:** A toggled firmware layer that converts keys into direction buttons to move a mobile pointer cursor for complete hands-free app navigation.
+# 6-Button Mobile Chording Macropad
+
+## Hour 1
+- Created repository and mapped out full key chord layout on paper.
+
+## Hour 2
+- Implemented complete C++ firmware using `BleCombo` library.
+- Mapped all single keypresses (A–F), double chords (G–S), triple chords (T–Z), navigation/mouse controls, and automation shortcuts.
+- Verified input detection logic using Wokwi ESP32 simulator.
