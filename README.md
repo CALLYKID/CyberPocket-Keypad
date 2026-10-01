@@ -8,7 +8,6 @@ An ultra-portable, wireless 6-button chorded keypad and touch-navigation control
 ## How It Works
 The device features a compact 3x2 grid of mechanical keys. It uses a custom chorded firmware layout so that users can tap specific combinations of buttons simultaneously to output all 26 letters of the English alphabet, system commands, and spacebar actions without a bulky physical layout.
 
-# 6-Button Mobile Chording Macropad
 
 # 6-Key Mobile Chording Macropad
 
