@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [ESP32-C3 SuperMini](https://thepihut.com/products/seeed-xiao-esp32c3?hl=en-GB) | BLE HID macropad controller | 1 | $5.50 | $5.50 | [The Pi Hut](https://thepihut.com/products/seeed-xiao-esp32c3?hl=en-GB) |
 | **Parts subtotal** | — | — | — | **$5.50** | — |
-| **Tax & shipping** | — | — | — | **$50.00** | — |
-| **Total** | — | — | — | **$55.50** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$5.50** | — |
 
-**$25.50 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$24.50 left of the tier's funding.
